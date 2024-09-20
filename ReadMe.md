@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack <br>👯 I’m looking to collaborate to build a complex Full-stack Web-app<br><br>
+🔭 I’m currently working on MERN && Nextjs <br>👯 I’m looking to collaborate to build a complex Full-stack Web-apps<br><br>
 
 
 ## 🌐 Socials:
